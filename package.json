@@ -67,7 +67,7 @@
   "bugs": {
     "url": "https://github.com/gndx/platzi-store/issues"
   },
-  "homepage": "https://github.com/gndx/platzi-store/#readme",
+  "homepage": "https://edwintrumpet.github.io/platzi-store-jest/",
   "jest": {
     "verbose": true,
     "setupFilesAfterEnv": [

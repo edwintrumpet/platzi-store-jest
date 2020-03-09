@@ -6,7 +6,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    publicPath: 'https://edwintrumpet.github.io/platzi-store-jest/',
+    publicPath: 'platzi-store-jest/',
     filename: 'bundle.js',
   },
   resolve: {
